@@ -1,5 +1,8 @@
 # 🛡️ Raksha — Your Digital Rakhi
 
+<img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/4dd04a66-52d4-45c1-b771-f2e8ebf7c335" />
+
+
 > **A private, free, and lightweight digital safety companion.**
 > Built with love as a modern **Digital Rakhi** — because protection should always be within reach. ❤️
 
